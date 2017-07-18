@@ -535,6 +535,9 @@ body,
 }
 
 /* theme */
+.color-dull-blue {
+	color: #4545D3;
+}
 .bkg-theme{
 	background-color: #0F1A26;
 	border-color: #0F1A26;

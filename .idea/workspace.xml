@@ -4,15 +4,6 @@
     <list default="true" id="11901f29-88c8-47bd-8b18-783ee3ed297c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/skin.css" afterPath="$PROJECT_DIR$/css/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preach.html" afterPath="$PROJECT_DIR$/preach.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/ableready.html" afterPath="$PROJECT_DIR$/work/ableready.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/batman.html" afterPath="$PROJECT_DIR$/work/batman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/engineering.html" afterPath="$PROJECT_DIR$/work/engineering.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/insured.html" afterPath="$PROJECT_DIR$/work/insured.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/meded.html" afterPath="$PROJECT_DIR$/work/meded.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/mmta.html" afterPath="$PROJECT_DIR$/work/mmta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/typingclub.html" afterPath="$PROJECT_DIR$/work/typingclub.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,18 +28,18 @@
       <file leaf-file-name="skin.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/skin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="4095" column="21" lean-forward="false" selection-start-line="4095" selection-start-column="21" selection-end-line="4095" selection-end-column="21" />
+            <state relative-caret-position="372">
+              <caret line="538" column="19" lean-forward="false" selection-start-line="538" selection-start-column="19" selection-end-line="538" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ableready.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/work/ableready.html">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6557">
-              <caret line="149" column="54" lean-forward="false" selection-start-line="149" selection-start-column="54" selection-end-line="149" selection-end-column="54" />
+            <state relative-caret-position="196">
+              <caret line="134" column="87" lean-forward="false" selection-start-line="134" selection-start-column="87" selection-end-line="134" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -60,8 +51,11 @@
     <findStrings>
       <find>home.html</find>
       <find>10 weeks</find>
-      <find>&lt;a</find>
       <find>cite</find>
+      <find>&lt;a</find>
+      <find>i bring</find>
+      <find>dull</find>
+      <find>color-white</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,8 +65,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/css/skin.css" />
         <option value="$PROJECT_DIR$/preach.html" />
         <option value="$PROJECT_DIR$/work/typingclub.html" />
         <option value="$PROJECT_DIR$/work/mmta.html" />
@@ -81,6 +73,8 @@
         <option value="$PROJECT_DIR$/work/engineering.html" />
         <option value="$PROJECT_DIR$/work/batman.html" />
         <option value="$PROJECT_DIR$/work/ableready.html" />
+        <option value="$PROJECT_DIR$/css/skin.css" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -126,20 +120,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="falcon-2.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="falcon-2.0" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="work" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -171,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500338523039</updated>
-      <workItem from="1500338524951" duration="4919000" />
+      <workItem from="1500338524951" duration="5347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4919000" />
+    <option name="totallyTimeSpent" value="5347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="26" width="1264" height="764" extended-state="0" />
@@ -216,14 +196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2">
           <caret line="345" column="68" lean-forward="false" selection-start-line="345" selection-start-column="68" selection-end-line="345" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="305" column="142" lean-forward="false" selection-start-line="305" selection-start-column="142" selection-end-line="305" selection-end-column="142" />
           <folding />
         </state>
       </provider>
@@ -286,18 +258,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/skin.css">
+    <entry file="file://$PROJECT_DIR$/work/ableready.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="4095" column="21" lean-forward="false" selection-start-line="4095" selection-start-column="21" selection-end-line="4095" selection-end-column="21" />
+        <state relative-caret-position="11367">
+          <caret line="376" column="7" lean-forward="true" selection-start-line="376" selection-start-column="7" selection-end-line="376" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/ableready.html">
+    <entry file="file://$PROJECT_DIR$/css/skin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6557">
-          <caret line="149" column="54" lean-forward="false" selection-start-line="149" selection-start-column="54" selection-end-line="149" selection-end-column="54" />
+        <state relative-caret-position="372">
+          <caret line="538" column="19" lean-forward="false" selection-start-line="538" selection-start-column="19" selection-end-line="538" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="134" column="87" lean-forward="false" selection-start-line="134" selection-start-column="87" selection-end-line="134" selection-end-column="87" />
           <folding />
         </state>
       </provider>
