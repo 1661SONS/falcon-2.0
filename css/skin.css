@@ -1235,7 +1235,7 @@ body,
 
 /* Transparent Header Initial, Hover & Active Colors */
 .header-transparent .navigation .nav-icon{
-	color: #666;
+	color: #111;
 	opacity: 1;
 }
 .header-transparent .navigation .nav-icon:hover{
@@ -1288,7 +1288,7 @@ body,
 	color: #fff;
 }
 .header-background .navigation .nav-icon{
-	color: #666;
+	color: #111;
 }
 .header-background .navigation .nav-icon:hover,
 .header-background .navigation .nav-icon.active{
