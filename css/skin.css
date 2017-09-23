@@ -4597,7 +4597,7 @@ blockquote cite{
 	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 .atl-here {
-	background-image: url(../images/hero/atlantatrees2.jpg);
+	background-image: url(../images/hero/atlantatrees-faded.jpg);
 	background-position: 50% 50%;
 	background-size: cover;
 	padding-bottom: 3rem;
@@ -4612,6 +4612,31 @@ blockquote cite{
 	width: 334px;
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+.get-at-ya-girl {
+	margin: 0;
+	padding: 1rem;
+	background-color: #0f1a26;
+}
+.get-at-ya-girl #contactAllan {
+	font-family: 'Allan', cursive;
+	font-size: 2.5rem;
+	text-transform: uppercase;
+ }
+.get-at-ya-girl p {
+	color: white;
+	font-weight: 500;
+	font-size: 1.75rem;
+	text-align: center;
+}
+.get-at-ya-girl a {
+	color: white;
+}
+.get-at-ya-girl img {
+	margin: 0 auto;
+	max-width: 110px;
+	padding-top: 20px;
+	opacity: 0.5;
 }
 @media only screen and (max-width: 600px) {
 	.bornnraised_overlay {
