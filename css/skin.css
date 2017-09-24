@@ -2598,8 +2598,16 @@ h3.project-title{
 */
 
 /* Pagination 2 Customized */
+.top-red-border {
+	border-top: solid 1px #FB0F3B;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+
 .pagination-2{
 	background-color: transparent;
+	border-top: solid 1px #FB0F3B;
 }
 .pagination-2 .pagination-previous,
 .pagination-2 .pagination-next{
@@ -4617,6 +4625,7 @@ blockquote cite{
 	margin: 0;
 	padding: 0.75rem;
 	background-color: #0f1a26;
+	/*border-bottom: solid 1px #FB0F3B;*/
 }
 .get-at-ya-girl #contactAllan {
 	font-family: 'Allan', cursive;
@@ -4634,7 +4643,7 @@ blockquote cite{
 }
 .get-at-ya-girl img {
 	margin: 0 auto;
-	max-width: 110px;
+	max-width: 80px;
 	padding-top: 20px;
 	opacity: 0.5;
 }
