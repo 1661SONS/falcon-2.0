@@ -4623,7 +4623,7 @@ blockquote cite{
 }
 .get-at-ya-girl {
 	margin: 0;
-	padding: 0.75rem;
+	padding: 2.75rem 0.75rem 0.75rem 0.75rem;
 	background-color: #0f1a26;
 	/*border-bottom: solid 1px #FB0F3B;*/
 }
@@ -4648,7 +4648,7 @@ blockquote cite{
 	opacity: 0.5;
 }
 @media only screen and (max-width: 600px) {
-	.bornnraised_overlay {
+	.bornnraised_overlay
 		margin: 0 auto;
 		opacity: 0.75;
 		font-weight: 500;
