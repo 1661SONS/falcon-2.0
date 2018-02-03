@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11901f29-88c8-47bd-8b18-783ee3ed297c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/Julia-Christian-Resumev2.pdf" afterPath="$PROJECT_DIR$/files/Julia-Christian-Resumev2.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/batman.html" afterPath="$PROJECT_DIR$/work/batman.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/insured.html" afterPath="$PROJECT_DIR$/work/insured.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/meded.html" afterPath="$PROJECT_DIR$/work/meded.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,14 +39,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="preach.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="preach.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preach.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="379" column="85" lean-forward="false" selection-start-line="379" selection-start-column="77" selection-end-line="379" selection-end-column="85" />
+            <state relative-caret-position="345">
+              <caret line="382" column="34" lean-forward="false" selection-start-line="382" selection-start-column="34" selection-end-line="382" selection-end-column="34" />
               <folding>
                 <element signature="e#17218#17224#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meded.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/work/meded.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="304" column="90" lean-forward="false" selection-start-line="304" selection-start-column="90" selection-end-line="304" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insured.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/work/insured.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="315" column="89" lean-forward="false" selection-start-line="315" selection-start-column="89" selection-end-line="315" selection-end-column="89" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,7 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>launch</find>
       <find>resume</find>
       <find>timeline</find>
       <find>ready</find>
@@ -65,7 +86,6 @@
       <find>experience engineer</find>
       <find>experience designer</find>
       <find>insured</find>
-      <find>previous</find>
       <find>home</find>
       <find>first responder</find>
       <find>first responder network</find>
@@ -83,6 +103,8 @@
       <find>thinfi</find>
       <find>thin</find>
       <find>linkedin</find>
+      <find>no</find>
+      <find>previous</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,16 +117,16 @@
         <option value="$PROJECT_DIR$/css/templates.css" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/work/ableready.html" />
-        <option value="$PROJECT_DIR$/work/batman.html" />
         <option value="$PROJECT_DIR$/work/engineering.html" />
         <option value="$PROJECT_DIR$/work/firstnet.html" />
-        <option value="$PROJECT_DIR$/work/insured.html" />
-        <option value="$PROJECT_DIR$/work/meded.html" />
         <option value="$PROJECT_DIR$/work/mmta.html" />
         <option value="$PROJECT_DIR$/work/typingclub.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/preach.html" />
+        <option value="$PROJECT_DIR$/work/batman.html" />
+        <option value="$PROJECT_DIR$/work/meded.html" />
+        <option value="$PROJECT_DIR$/work/insured.html" />
       </list>
     </option>
   </component>
@@ -140,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,7 +192,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,12 +306,13 @@
       <workItem from="1516550531016" duration="14467000" />
       <workItem from="1516677948828" duration="494000" />
       <workItem from="1516679366370" duration="54000" />
-      <workItem from="1517004090147" duration="121000" />
+      <workItem from="1517004090147" duration="320000" />
+      <workItem from="1517669799390" duration="588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53798000" />
+    <option name="totallyTimeSpent" value="54585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -673,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/work/batman.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="329" column="96" lean-forward="true" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/work/engineering.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -691,20 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="374" column="132" lean-forward="false" selection-start-line="374" selection-start-column="124" selection-end-line="374" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/insured.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="372" column="132" lean-forward="false" selection-start-line="372" selection-start-column="124" selection-end-line="372" selection-end-column="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/work/meded.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="360" column="104" lean-forward="false" selection-start-line="360" selection-start-column="104" selection-end-line="360" selection-end-column="104" />
         </state>
       </provider>
     </entry>
@@ -737,13 +739,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/work/batman.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="277" column="91" lean-forward="false" selection-start-line="277" selection-start-column="89" selection-end-line="277" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/preach.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="379" column="85" lean-forward="false" selection-start-line="379" selection-start-column="77" selection-end-line="379" selection-end-column="85" />
+        <state relative-caret-position="345">
+          <caret line="382" column="34" lean-forward="false" selection-start-line="382" selection-start-column="34" selection-end-line="382" selection-end-column="34" />
           <folding>
             <element signature="e#17218#17224#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/meded.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="304" column="90" lean-forward="false" selection-start-line="304" selection-start-column="90" selection-end-line="304" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/insured.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="315" column="89" lean-forward="false" selection-start-line="315" selection-start-column="89" selection-end-line="315" selection-end-column="89" />
+          <folding />
         </state>
       </provider>
     </entry>
