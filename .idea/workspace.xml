@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11901f29-88c8-47bd-8b18-783ee3ed297c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files/Julia-Christian-Resumev2.pdf" afterPath="$PROJECT_DIR$/files/Julia-Christian-Resumev2.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preach.html" afterPath="$PROJECT_DIR$/preach.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/ableready.html" afterPath="$PROJECT_DIR$/work/ableready.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/batman.html" afterPath="$PROJECT_DIR$/work/batman.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/engineering.html" afterPath="$PROJECT_DIR$/work/engineering.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/firstnet.html" afterPath="$PROJECT_DIR$/work/firstnet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/insured.html" afterPath="$PROJECT_DIR$/work/insured.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/meded.html" afterPath="$PROJECT_DIR$/work/meded.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/mmta.html" afterPath="$PROJECT_DIR$/work/mmta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/work/typingclub.html" afterPath="$PROJECT_DIR$/work/typingclub.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,19 +48,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="135" column="137" lean-forward="false" selection-start-line="135" selection-start-column="137" selection-end-line="135" selection-end-column="137" />
+            <state relative-caret-position="210">
+              <caret line="169" column="172" lean-forward="false" selection-start-line="169" selection-start-column="172" selection-end-line="169" selection-end-column="172" />
               <folding>
-                <element signature="e#8506#8511#0" expanded="true" />
+                <element signature="e#8523#8528#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
@@ -134,9 +123,9 @@
         <option value="$PROJECT_DIR$/work/meded.html" />
         <option value="$PROJECT_DIR$/work/mmta.html" />
         <option value="$PROJECT_DIR$/work/typingclub.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/preach.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -317,12 +306,12 @@
       <workItem from="1516677948828" duration="494000" />
       <workItem from="1516679366370" duration="54000" />
       <workItem from="1517004090147" duration="320000" />
-      <workItem from="1517669799390" duration="7290000" />
+      <workItem from="1517669799390" duration="7619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61287000" />
+    <option name="totallyTimeSpent" value="61616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -769,21 +758,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="135" column="137" lean-forward="false" selection-start-line="135" selection-start-column="137" selection-end-line="135" selection-end-column="137" />
-          <folding>
-            <element signature="e#8506#8511#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="169" column="172" lean-forward="false" selection-start-line="169" selection-start-column="172" selection-end-line="169" selection-end-column="172" />
+          <folding>
+            <element signature="e#8523#8528#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
