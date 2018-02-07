@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11901f29-88c8-47bd-8b18-783ee3ed297c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -123,8 +122,8 @@
         <option value="$PROJECT_DIR$/work/typingclub.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/preach.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/templates.css" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -305,12 +304,12 @@
       <workItem from="1516677948828" duration="494000" />
       <workItem from="1516679366370" duration="54000" />
       <workItem from="1517004090147" duration="320000" />
-      <workItem from="1517669799390" duration="9361000" />
+      <workItem from="1517669799390" duration="10003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63358000" />
+    <option name="totallyTimeSpent" value="64000000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
