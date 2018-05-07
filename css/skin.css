@@ -3554,6 +3554,15 @@ select.required-field{
 	margin-left: 0.5rem;
 	margin-right: 0.5rem;
 }
+.angel {
+	max-height: 2rem;
+	line-height: 4rem;
+	padding-left: 1rem;
+}
+.footer .angel {
+	padding-left: 0.25rem;
+}
+
 
 /*------------------------------------------------------------------
 [23. Footer]
@@ -4641,7 +4650,7 @@ blockquote cite{
 .get-at-ya-girl a {
 	color: white;
 }
-.get-at-ya-girl img {
+.aboutSigLogo {
 	margin: 0 auto;
 	max-width: 80px;
 	padding-top: 20px;

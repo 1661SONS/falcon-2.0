@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11901f29-88c8-47bd-8b18-783ee3ed297c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files/Julia-Christian-Resumev4.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/skin.css" afterPath="$PROJECT_DIR$/css/skin.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,14 +38,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="135" column="91" lean-forward="false" selection-start-line="135" selection-start-column="91" selection-end-line="135" selection-end-column="91" />
+            <state relative-caret-position="153">
+              <caret line="211" column="121" lean-forward="false" selection-start-line="211" selection-start-column="121" selection-end-line="211" selection-end-column="121" />
               <folding>
                 <element signature="e#8523#8528#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skin.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/skin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="3556" column="0" lean-forward="false" selection-start-line="3556" selection-start-column="0" selection-end-line="3556" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,13 +64,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>theuxineer</find>
-      <find>theuxineer.work</find>
-      <find>thinfi</find>
-      <find>thin</find>
-      <find>linkedin</find>
-      <find>no</find>
-      <find>peach state</find>
       <find>depth</find>
       <find>previous</find>
       <find>get-at</find>
@@ -84,6 +87,13 @@
       <find>961</find>
       <find>large</find>
       <find>kerouac</find>
+      <find>icons</find>
+      <find>icon-</find>
+      <find>social-list</find>
+      <find>small</find>
+      <find>icon</find>
+      <find>get-</find>
+      <find>angel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,7 +103,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/css/skin.css" />
         <option value="$PROJECT_DIR$/work/ableready.html" />
         <option value="$PROJECT_DIR$/work/batman.html" />
         <option value="$PROJECT_DIR$/work/engineering.html" />
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/css/templates.css" />
         <option value="$PROJECT_DIR$/work/meded.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/css/skin.css" />
       </list>
     </option>
   </component>
@@ -141,6 +151,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,9 +164,22 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon-2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon-2.0" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -275,12 +299,13 @@
       <workItem from="1517669799390" duration="13409000" />
       <workItem from="1521757167707" duration="1100000" />
       <workItem from="1521764179105" duration="234000" />
-      <workItem from="1525563808441" duration="346000" />
+      <workItem from="1525563808441" duration="478000" />
+      <workItem from="1525653545780" duration="4508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69086000" />
+    <option name="totallyTimeSpent" value="73726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -663,15 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="604">
           <caret line="158" column="249" lean-forward="false" selection-start-line="158" selection-start-column="249" selection-end-line="158" selection-end-column="249" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/skin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3695" column="37" lean-forward="false" selection-start-line="3695" selection-start-column="35" selection-end-line="3695" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="103" column="107" lean-forward="false" selection-start-line="103" selection-start-column="107" selection-end-line="103" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,17 +710,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="29" column="73" lean-forward="false" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="135" column="91" lean-forward="false" selection-start-line="135" selection-start-column="91" selection-end-line="135" selection-end-column="91" />
+        <state relative-caret-position="153">
+          <caret line="211" column="121" lean-forward="false" selection-start-line="211" selection-start-column="121" selection-end-line="211" selection-end-column="121" />
           <folding>
             <element signature="e#8523#8528#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/skin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="3556" column="0" lean-forward="false" selection-start-line="3556" selection-start-column="0" selection-end-line="3556" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
