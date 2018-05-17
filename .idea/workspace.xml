@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11901f29-88c8-47bd-8b18-783ee3ed297c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/skin.css" afterPath="$PROJECT_DIR$/css/skin.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="211" column="121" lean-forward="false" selection-start-line="211" selection-start-column="121" selection-end-line="211" selection-end-column="121" />
+            <state relative-caret-position="89">
+              <caret line="278" column="19" lean-forward="false" selection-start-line="278" selection-start-column="13" selection-end-line="278" selection-end-column="19" />
               <folding>
                 <element signature="e#8523#8528#0" expanded="true" />
               </folding>
@@ -50,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skin.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="skin.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/skin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="411">
               <caret line="3556" column="0" lean-forward="false" selection-start-line="3556" selection-start-column="0" selection-end-line="3556" selection-end-column="0" />
               <folding />
             </state>
@@ -64,7 +62,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>depth</find>
       <find>previous</find>
       <find>get-at</find>
       <find>i bring</find>
@@ -94,6 +91,7 @@
       <find>icon</find>
       <find>get-</find>
       <find>angel</find>
+      <find>footer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -151,7 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -181,6 +178,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,12 +298,13 @@
       <workItem from="1521757167707" duration="1100000" />
       <workItem from="1521764179105" duration="234000" />
       <workItem from="1525563808441" duration="478000" />
-      <workItem from="1525653545780" duration="4508000" />
+      <workItem from="1525653545780" duration="4653000" />
+      <workItem from="1526579794769" duration="90000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73726000" />
+    <option name="totallyTimeSpent" value="73961000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,7 +317,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="26" width="1262" height="764" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13232964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -713,21 +711,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/css/skin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="211" column="121" lean-forward="false" selection-start-line="211" selection-start-column="121" selection-end-line="211" selection-end-column="121" />
-          <folding>
-            <element signature="e#8523#8528#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="411">
+          <caret line="3556" column="0" lean-forward="false" selection-start-line="3556" selection-start-column="0" selection-end-line="3556" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/skin.css">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="3556" column="0" lean-forward="false" selection-start-line="3556" selection-start-column="0" selection-end-line="3556" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="89">
+          <caret line="278" column="19" lean-forward="false" selection-start-line="278" selection-start-column="13" selection-end-line="278" selection-end-column="19" />
+          <folding>
+            <element signature="e#8523#8528#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
