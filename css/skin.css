@@ -2219,6 +2219,13 @@ body,
 	text-transform: uppercase;
 	color: #fff;
 }
+.project-subtitle {
+	font-size: 1.25rem;
+	font-weight: 400;
+	line-height: 1.75;
+	letter-spacing: 0.1rem;
+	color: #fff;
+}
 .overlay-info .project-description{
 	margin-bottom: 125px;
 	display: block;
