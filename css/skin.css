@@ -2395,11 +2395,12 @@ body,
 	color: #fff;
 }
 [class*="team-"] h6.occupation{
-	font-size: 1.175rem;
+	font-size: 1.3rem;
 	font-weight: 400;
 	text-transform: uppercase;
 	font-style: normal;
 	color: #4545D3;
+	line-height: 1.5;
 }
 
 /* Hero */
