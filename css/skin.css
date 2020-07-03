@@ -3577,7 +3577,14 @@ select.required-field{
 	padding-left: 1rem;
 }
 .footer .angel {
-	padding-left: 0.3rem;
+	padding-left: 2rem;
+}
+.get-at-ya-girl .angel {
+	margin-left: 2rem;
+}
+.biggerAngel {
+	max-height: 3.5rem;
+	margin-left: 4rem;
 }
 
 
@@ -3613,7 +3620,7 @@ select.required-field{
 .footer .copyright,
 .footer .scroll-to-top{
 	margin-bottom: 1rem !important;
-	font-size: 1.1rem !important;
+	font-size: 1.5rem !important;
 	float: none;
 }
 
@@ -3697,7 +3704,7 @@ select.required-field{
 	float: none;
 }
 .footer .navigation a{
-	padding: 0 0.5rem;
+	padding: 0 1.5rem;
 }
 .footer .nav-left li:first-child a{
 	padding-left: 0;
@@ -4670,7 +4677,7 @@ blockquote cite{
 .aboutSigLogo {
 	margin: 0 auto;
 	max-width: 80px;
-	padding-top: 20px;
+	padding-top: 30px;
 	opacity: 0.5;
 }
 @media only screen and (max-width: 600px) {
