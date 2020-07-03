@@ -50,10 +50,10 @@
 							<a href="#" class="contains-sub-menu">Work</a>
 							<ul class="sub-menu">
 								<li class="current">
-									<a class="no-page-fade" href="https://thinfi.com/1cxm">First Responder Network <i class="material-icons md-18">vpn_key</i></a>
+									<a class="no-page-fade" href="firstnet.html">First Responder Network <i class="material-icons md-18">vpn_key</i></a>
 								</li>
 								<li>
-									<a href="insured.html" class="no-page-fade">Continuing Education</a>
+									<a href="ihg.html" class="no-page-fade">Streamlining Hospitality</a>
 								</li>
 								<li>
 									<a href="meded.html" class="no-page-fade">Medical Simulation</a>
@@ -143,13 +143,13 @@
 											<div class="column width-12">
 												<h1 class="tms-caption title-large color-charcoal-light no-transition allanFont"
 													data-no-scale>
-													<!-- Continuing Education -->
+													<!-- FirstNet -->
 												</h1>
 											</div>
 										</div>
 									</div>
 								</div>
-								<img data-src="../images/portfolio/firstnet/network-status-v13-tooltip-favs.png" data-retina src="images/blank.png" alt=""/>
+								<img data-src="../images/portfolio/firstnet/network-status-v13-tooltip-favs.png" data-retina src="../images/blank.png" alt=""/>
 							</li>
 						</ul>
 					</div>
@@ -171,7 +171,7 @@
 
 							<p>The FirstNet web suite currently consists of the Marketing Portal, State Plan Portal, Local Control, App Store, App Control and Developer Portal. My responsibility included all creative duties for Local Control (see below) and the information architecture duties for the Developer Portal (currently in progress).</p>
 							<!--<p>Just for kicks, it was during this project that I took a ten-week frontend web development course at General Assembly and was invited to complete a tech challenge, winning a contract to redesign the US Citizen and Immigration Service's Electronic Immigration System for the Department of Homeland Security.</p>-->
-							<a target="_blank" href="https://invis.io/4ZFFUXDDTC3" class="button medium bkg-theme bkg-hover-theme color-white color-hover-white shadow mb-mobile-50">Launch Desktop Prototype &nbsp;<i class="material-icons md-18 center_icon">launch</i></a>
+							<a data-position="top" data-delay="50" data-tooltip="Password Required" target="_blank" href="https://invis.io/4ZFFUXDDTC3" class="tooltipped button medium bkg-theme bkg-hover-theme color-white color-hover-white shadow mb-mobile-50">Launch Desktop Mockups &nbsp;<i class="material-icons md-18 center_icon">vpn_key</i></a>
 						</div>
 						<div class="column width-4 offset-1">
 							<h5 class="mb-40 brief-details">Outline</h5>
@@ -328,15 +328,15 @@
 								<span class="indication-large allanFont">Home</span>
 								<span class="icon-left-open-mini left"></span>
 								<small class="allanFont">Home</small>
-								<span><i class="material-icons">home</i></span>
+								<span><i class="material-icons md-14">favorite</i></span>
 							</a>
 						</div>
 						<div class="column width-6 next horizon" data-animate-in="preset:slideInUpShort;duration:200ms;delay:200ms;" data-threshold="1">
-							<a href="insured.html" class="pagination-next no-page-fade">
+							<a href="ihg.html" class="pagination-next no-page-fade">
 								<span class="indication-large allanFont">Next</span>
 								<span class="icon-right-open-mini right"></span>
 								<small class="allanFont">Next</small>
-								<span>Continuing Education</span>
+								<span>Streamlining Hospitality</span>
 							</a>
 						</div>
 					</div>
@@ -412,5 +412,13 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<!-- <script src="http://maps.googleapis.com/maps/api/js?v=3"></script> -->
 	<script src="../js/timber.master.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
+	<script src="../js/tooltip.js"></script>
+	<script>
+		//tooltip js from materialize css
+        $(document).ready(function(){
+            $('.tooltipped').tooltip({delay: 50});
+        });
+	</script>
 </body>
 </html>
