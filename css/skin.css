@@ -2227,7 +2227,7 @@ body,
 	color: #fff;
 } */
 .overlay-info .project-description{
-	margin-bottom: 150px;
+	margin-bottom: 125px;
 	display: block;
 	font-size: 1.5rem;
 	opacity: 1;
@@ -2524,7 +2524,7 @@ h3.project-title{
 	padding: 0;
 	text-transform: none;
 	font-size: 1.6rem;
-	font-weight: 400;
+	font-weight: 600;
 	letter-spacing: 0;
 }
 .grid-filter-menu li{
@@ -2543,7 +2543,7 @@ h3.project-title{
 .grid-filter-menu a{
 	padding: 1rem 0;
 	font-size: 1.6rem;
-	font-weight: 400;
+	font-weight: 500;
 	line-height: 1.1rem;
 	color: #000;
 	border-radius: 0;
@@ -2557,6 +2557,7 @@ h3.project-title{
 }
 .grid-filter-menu a.active{
 	background-color: transparent;
+	border-width: 2px;
 	border-color: #F92E4E;
 	color: #F92E4E;
 }
