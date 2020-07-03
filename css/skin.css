@@ -118,6 +118,7 @@ h6,.h6{
 	text-transform: uppercase;
 }
 .material-icons.md-12 { font-size: 12px; }
+.material-icons.md-14 { font-size: 14px; }
 .material-icons.md-16 { font-size: 16px; }
 .material-icons.md-18 { font-size: 18px; }
 .material-icons.md-24 { font-size: 24px; }
@@ -1531,7 +1532,7 @@ body,
 	border-width: 2px;
 }
 .side-navigation .sub-menu:not(.custom-content) a{
-	padding: 1.1rem 4rem 1.1rem 7.25rem;
+	padding: 1.1rem 4rem 1.1rem 6.5rem;
 }
 .side-navigation.center .sub-menu:not(.custom-content) a{
 	padding: 1.1rem 4rem 1.1rem 8rem;
