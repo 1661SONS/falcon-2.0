@@ -2227,7 +2227,7 @@ body,
 	color: #fff;
 } */
 .overlay-info .project-description{
-	margin-bottom: 125px;
+	margin-bottom: 150px;
 	display: block;
 	font-size: 1.5rem;
 	opacity: 1;
@@ -2235,6 +2235,13 @@ body,
 	font-weight: 400;
 	text-align: left;
 }
+/* .companyLogo {
+	max-height: 75px;
+	max-width: 75px;
+	filter: saturate(0);
+	margin-bottom: 10px;
+	margin-top: -5px;
+} */
 
 /* Overlay */
 .overlay-info{
