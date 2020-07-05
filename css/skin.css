@@ -2632,7 +2632,7 @@ h3.project-title{
 
 /* Pagination 2 Customized */
 .top-red-border {
-	border-top: solid 1px #FB0F3B;
+	border-top: solid 2px #FB0F3B;
 	border-left: none;
 	border-right: none;
 	border-bottom: none;
@@ -2640,7 +2640,7 @@ h3.project-title{
 
 .pagination-2{
 	background-color: transparent;
-	border-top: solid 1px #FB0F3B;
+	border-top: solid 2px #FB0F3B;
 }
 .pagination-2 .pagination-previous,
 .pagination-2 .pagination-next{
