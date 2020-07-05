@@ -67,9 +67,6 @@
 								<li>
 									<a href="engineering.html" class="no-page-fade">Green Engineering</a>
 								</li>
-								<!--<li>-->
-									<!--<a href="ableready.html" class="no-page-fade">Able &amp; Ready Tree Services</a>-->
-								<!--</li>-->
 								<li>
 									<a href="batman.html" class="no-page-fade">Batman Comics</a>
 								</li>
@@ -148,8 +145,9 @@
 											</div>
 										</div>
 									</div>
-								</div>
-								<img data-src="../images/portfolio/ihg/gregProfile.png" data-retina src="../images/blank.png" alt=""/>
+                                </div>
+                                <!-- Attribution for wikipedia plant image: Secl / CC BY (https://creativecommons.org/licenses/by/3.0) -->
+								<img data-src="../images/portfolio/honeywell/plant.jpg" data-retina src="../images/blank.png" alt=""/>
 							</li>
 						</ul>
 					</div>
@@ -167,11 +165,8 @@
 						<div class="column width-7">
 							<h2 class="mb-40">Big Data in Manufacturing</h2>
 							<!--<h3 class="project-details">Timeline: </h3>-->
-							<p>I was apart of a team of 10 talented enterprise designers and researchers while at IHG. I was tasked with leading various efforts including creating a check-in system, revamping property revenue management, and designing a solution for managing customer complaints. Many of these initiatives replaced paper, extremely outdated legacy applications, or were completely new technologies. 
-                            </p>
-                            <!-- <a data-position="top" data-delay="50" data-tooltip="Password Required" target="_blank" href="https://7cbl25.axshare.com/#id=5yodcn&p=golden_greg_v6_-_reservation&sc=2&fn=0" class="tooltipped button medium bkg-theme bkg-hover-theme color-white color-hover-white shadow mb-mobile-50">Launch Check-In Prototype &nbsp;<i class="material-icons md-18 center_icon">vpn_key</i></a>
-                            
-                            <a data-position="top" data-delay="50" data-tooltip="Password Required" target="_blank" href="https://whnym8.axshare.com/#id=goq9w0&p=complaints_list_v5&g=1&dp=0&fn=0&sc=2" class="tooltipped button medium bkg-theme bkg-hover-theme color-white color-hover-white shadow mb-mobile-50">Launch Complaints Prototype &nbsp;<i class="material-icons md-18 center_icon">vpn_key</i></a> -->
+                            <p>Imagine doing data entry for months. Imagine flipping through a complicated process and instrumentation diagram (see below) on the hunt for tiny alphanumeric codes. Imagine that, even with your chemical engineering degree, you don’t recognize these codes because they are different for each customer; their descriptions are written in Arabic, or Korean, or Spanish, or Italian.</p>
+                            <p>Setting up a petrochemical plant to send flowrate data through Honeywell sensors for optimization of chemical processes could take up to 6 months. I was lead designer on transforming this Excel-based monthslong struggle into an hourslong task with smart algorithmic datapoint matching. This endeavor was called Tag Mapping.</p>
 						</div>
 						<div class="column width-4 offset-1">
 							<h5 class="mb-40 brief-details">Outline</h5>
@@ -210,7 +205,26 @@
 						</div>
 					</div>
 				</div>
-				<!-- Image Wide End -->
+                <!-- Image Wide End -->
+                
+                <!-- Content -->
+				<div class="section-block replicable-content pt-0">
+					<div class="row horizon" data-animate-in="preset:slideInUpShort;duration:300ms;delay:100ms;" data-threshold="0.5">
+						<div class="column width-6">
+							<blockquote class="large weight-bold">
+								<p>Given a process and instrumentation diagram (P&ID) from a customer, Honeywell's chemical engineers would have to play part translator and part cryptographer. The above P&ID is from a Korean plant.</p>
+							</blockquote>
+						</div>
+						<div class="column width-6">
+							<div class="feature-column">
+								<p>With 1000s upon 1000s of customer datapoints to map to Honeywell tag names, chemical engineers would start with a blank Excel template. In the Excel screenshot below, the green columns are dropdowns whereas the red columns require manual entry of the customer's alphanumeric codes, or tag names.
+                                </p>
+								<p class="mb-30">Honeywell’s chemical engineers would have to enter customer tag names found in the P&ID one-by-one, mapping each to its Honeywell counterpart. This would eventually create a digital twin of the entire plant, including its miles of pipes, compressors, heaters, pumps, and other equipment, within Honeywell’s database.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Content End -->
                 
                 <!-- Image Wide -->
 				<div class="section-block replicable-content">
@@ -250,14 +264,14 @@
 					<div class="row horizon" data-animate-in="preset:slideInUpShort;duration:300ms;delay:100ms;" data-threshold="0.5">
 						<div class="column width-6">
 							<blockquote class="large weight-bold">
-								<p>Chemical Engineers would start with a blank Excel template, where 1000s of datapoints and descriptions had to be filled perfectly.</p>
+								<p>Once the Excel templates were filled properly, chemical engineers would then upload them into Honeywell's Model Builder web app. If any tag was mapped incorrecly due to a stray character or typo, it and all of its 100s of connected attributes would not render.</p>
 							</blockquote>
 						</div>
 						<div class="column width-6">
 							<div class="feature-column">
-								<p>With our researchers, we tested early and often. As soon as a workflow was prototyped, we wrapped it in User Testing’s engine and quickly received actionable feedback from staff at IHG hotels around the world. We replaced patchwork efforts with streamlined, web-based systems.
+								<p>To be frank, this process was awful. It was extremely time-consuming, tedious, error-prone, and <strong>time-consuming</strong>. Because chemical engineers spent months on this setup process, they had little to no time to lend their optimization expertise to customers. What they were actually hired for, none had the time to do.
                                 </p>
-								<p class="mb-30">All of these solutions were created for desktop only, but it was a challenge to account for the ever-varying use cases. Some properties used paper-based guest lists reprinted constantly to check in customers, while others relied on apps like WhatsApp to keep staff updated.</p>
+								<p class="mb-30">As soon as I was tasked with this initiative, I and my design team's research manager interviewed 17 colleagues and users in chemical engineering, product, software development, and data science roles. We received countless demos and current process feedback along with walkthroughs of an ideal workflow. Next, we designers conducted workshops with data scientists and developers all over Honeywell worldwide to make this mayhem an automated operation using custom algorithms.</p>
 							</div>
 						</div>
 					</div>
@@ -267,58 +281,46 @@
 				<div class="section-block replicable-content">
 					<div class="row">
 						<div class="column width-12">
-							<h4 class="vertical-title show-on-mobile mb-mobile-50 allanFont">FROM STRANGERS to KNOWN GUESTS</h4>
+							<h4 class="vertical-title show-on-mobile mb-mobile-50 allanFont">START and END in ONE WEB APP</h4>
 						</div>
 					</div>
 					<div class="row">
 						<div class="column width-12">
 							<div class="thumbnail horizon" data-animate-in="preset:slideInRightShort;duration:300ms;delay:100ms;" data-threshold="0.2">
-								<img src="../images/portfolio/ihg/gregProfile.png" alt="">
+								<img src="../images/portfolio/honeywell/tag-mapping-start.png" alt="">
 							</div>
 						</div>
 					</div>
 				</div>
-				<!-- Image Wide End -->
-				<!-- Custom Feature Columns -->
-				<section class="section-block replicable-content pt-0">
-					<div class="row flex">
-						<div class="column width-4">
+                <!-- Image Wide End -->
+                <!-- Content -->
+				<div class="section-block replicable-content pt-0">
+					<div class="row horizon" data-animate-in="preset:slideInUpShort;duration:300ms;delay:100ms;" data-threshold="0.5">
+						<div class="column width-6">
+							<blockquote class="large weight-bold">
+								<p>We came up with a process where chemical engineers would start Tag Mapping in Honeywell's Model Builder web app instead of Excel.</p>
+							</blockquote>
+                        </div>
+                        <div class="column width-6">
 							<div class="feature-column">
-								<div class="separator bkg-theme"></div>
-								<h4 class="mb-30">01 / Challenges</h4>
-								<p>Conflicting ideas with Product vs. Customers. Some evangelism was needed to remind everyone who we were solving problems for. This was also my first time working with overseas development teams.</p>
-							</div>
-						</div>
-						<div class="column width-4">
-							<div class="feature-column">
-								<div class="separator bkg-theme"></div>
-								<h4 class="mb-30">02 / Wins</h4>
-								<p>Piloting Google Design Sprints with SMEs, designers, engineers, and researchers. This has never been done at IHG before, however all of these solutions were quickly born from sprints.</p>
-							</div>
-						</div>
-						<div class="column width-4">
-							<div class="feature-column">
-								<div class="separator bkg-theme"></div>
-								<h4 class="mb-30">03 / Lessons</h4>
-								<p>There’s always room for improvement. Hospitality has so many moving parts and every property is different. It was paramount to test early and often.</p>
+								<p>Raw tag names and instrument data from the customer would be uploaded, then smartly categorized based on the instrument type. Using this method, chemical engineers would just have to confirm smart suggestions from the system. Thanks to the algorithm, tags could be mapped 100s at a time instead of one-by-one. No manual data entry required.
+                                </p>
 							</div>
 						</div>
 					</div>
-				</section>
-				<!-- Custom Feature Columns End -->
-				
-				<!--removed full width slider section from here-->
-				<!-- Image Wide -->
+				</div>
+                <!-- Content End -->
+                <!-- Image Wide -->
 				<div class="section-block replicable-content">
 					<div class="row">
 						<div class="column width-12">
-							<h4 class="vertical-title show-on-mobile mb-mobile-50 allanFont">COMPLAINT MANAGEMENT</h4>
+							<h4 class="vertical-title show-on-mobile mb-mobile-50 allanFont">MAP 100s of TAGS INSTEAD OF ONE-BY-ONE</h4>
 						</div>
 					</div>
 					<div class="row">
 						<div class="column width-12">
 							<div class="thumbnail horizon" data-animate-in="preset:slideInRightShort;duration:300ms;delay:100ms;" data-threshold="0.2">
-								<img src="../images/portfolio/ihg/complaints.png" alt="">
+								<img src="../images/portfolio/honeywell/tag-mapping-progress.png" alt="">
 							</div>
 						</div>
 					</div>
@@ -328,13 +330,47 @@
 				<div class="section-block replicable-content">
 					<div class="row">
 						<div class="column width-12">
+							<h4 class="vertical-title show-on-mobile mb-mobile-50 allanFont">FINISH in ONE WORKDAY INSTEAD OF MONTHS LATER</h4>
+						</div>
+					</div>
+					<div class="row">
+						<div class="column width-12">
 							<div class="thumbnail horizon" data-animate-in="preset:slideInRightShort;duration:300ms;delay:100ms;" data-threshold="0.2">
-								<img src="../images/portfolio/ihg/complaintDetail.png" alt="">
+								<img src="../images/portfolio/honeywell/tag-mapping-done.png" alt="">
 							</div>
 						</div>
 					</div>
 				</div>
-				<!-- Image Wide End -->
+                <!-- Image Wide End -->
+				<!-- Custom Feature Columns -->
+				<section class="section-block replicable-content pt-0">
+					<div class="row flex">
+						<div class="column width-4">
+							<div class="feature-column">
+								<div class="separator bkg-theme"></div>
+								<h4 class="mb-30">01 / Challenges</h4>
+								<p>So I'm a mechanical engineer, not a chemical engineer. That fact was never more evident until I joined Honeywell. Translating chem speak into normal English was a skill I had to master immediately.</p>
+							</div>
+						</div>
+						<div class="column width-4">
+							<div class="feature-column">
+								<div class="separator bkg-theme"></div>
+								<h4 class="mb-30">02 / Wins</h4>
+								<p>This design initiative saved everyone on the Honeywell and customer sides so much time. It freed up chemical engineers to offer their expertise in saving plants money and eliminating harmful waste.</p>
+							</div>
+						</div>
+						<div class="column width-4">
+							<div class="feature-column">
+								<div class="separator bkg-theme"></div>
+								<h4 class="mb-30">03 / Lessons</h4>
+								<p>Big data should be crunched by machines, not people. This project reminded me of why I pivoted to design from engineering – and would make the same decision today.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- Custom Feature Columns End -->
+				
+				<!--removed full width slider section from here-->
 				<!--removed share from here-->
 				<!-- Pagination Section 2 -->
 				<div class="section-block pagination-2">
