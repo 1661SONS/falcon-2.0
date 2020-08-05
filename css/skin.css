@@ -1844,6 +1844,10 @@ body,
 .featured-media,
 .full-width-slider,
 .parallax{
+	height: 50rem;
+	padding: 0;
+}
+#brian {
 	height: 65rem;
 	padding: 0;
 }
