@@ -1851,6 +1851,14 @@ body,
 	height: 65rem;
 	padding: 0;
 }
+@media only screen and (max-width: 768px) and (orientation: landscape) {
+	.featured-media,
+	.full-width-slider,
+	.parallax{
+		height: 25rem;
+		padding: 0;
+	}
+}
 .window-height{
 	height: 100vh;
 }
